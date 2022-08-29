@@ -2,7 +2,6 @@ import numpy as np
 import itertools
 import sys
 
-model_name = 'InterBKT'
 
 ALMOST_ONE = 0.999
 ALMOST_ZERO = 0.001
